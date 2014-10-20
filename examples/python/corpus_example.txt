@@ -1,0 +1,2 @@
+My name is [Davis King]\person and I work for MIT\org.
+The other day at work I saw [Brian Smith]\person from CMU\org.
